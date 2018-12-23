@@ -1,0 +1,5 @@
+1、生成者消费者模型
+2、socket 缓存区
+
+
+sudo aptitude show xinetd
